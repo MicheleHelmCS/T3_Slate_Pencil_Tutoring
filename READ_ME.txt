@@ -1,0 +1,1 @@
+HTML file was renamed from sp_home to index.html to properly work on GitHub Pages.
